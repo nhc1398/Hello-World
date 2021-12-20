@@ -1,3 +1,1 @@
-# Hello-World
-## Hello Github World
-Repository 연습
+# Git Hub Tutorial
